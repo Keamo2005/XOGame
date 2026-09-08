@@ -3,7 +3,6 @@ import { View, Text, TextInput, Button, StyleSheet, TouchableHighlight } from 'r
 
 // NavigationContainer wraps the whole app and manages navigation state
 import { NavigationContainer } from '@react-navigation/native';
-// createNativeStackNavigator builds a stack-based navigator using native transitions
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 
 const Stack = createNativeStackNavigator();
