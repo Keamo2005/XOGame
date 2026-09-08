@@ -6,7 +6,7 @@
 - **Subject**: MAST5112
 
 ## Links
-- **GitHub Repository**: https://github.com/Keamo2005/XOGame
+- **GitHub Repository**: https://github.com/Keamo2005/XOGame/tree/main
 
 ---
 
